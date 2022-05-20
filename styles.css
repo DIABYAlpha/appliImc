@@ -1,0 +1,39 @@
+h1 {
+    align-items: center;
+    border-radius: 100px;
+    padding: 30px;
+    color: rgb(1, 215, 88);
+}
+
+.form-row {
+    width: 100%;
+    padding: 5px;
+    border-radius: 10px;
+    color: aquamarine;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background-image: url(/ressources/neven-krcmarek-9dTg44Qhx1Q-unsplash.jpg);
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-color: black;
+    background-position: center;
+    background-size: contain;
+    align-items: center;
+    padding: 30px;
+
+}
+
+input {
+    border-radius: 10px;
+    padding: 5px;
+
+}
+
+#btn:hover {
+    background-color: rgba(166, 180, 136, 0.5);
+
+}
